@@ -1,0 +1,11 @@
+- Châu lục nào có xu hướng gia tăng số ca mắc nhanh hơn từ khi đại dịch xuất hiện ? (X: date, continent, total_cases.)
+- Số dân và mật độ dân số ở các nước châu Á có làm gia tăng số ca mắc? (X: continent, location, population, population_density, new_cases.)
+- Khi vaccine được phổ biến, điều đó có làm giảm số ca mắc và tử vong hay không? Vaccine có giúp ích cho việc chống đại dịch covid ?(X: date, people_fully_vaccinated, 
+total_boosters, population new_cases, new_deaths.)
+- Biến thể Omicron xuất hiện vào 24/11/2021 có gây nguy hiểm không ? So sánh với biến thể Delta (xuất hiện cuối năm 2020 nhưng được đặt tên chính thức vào 31/5/2021)?
+(X: date, new_cases, new_deaths)
+- Ở Việt Nam, 5/2021 - 2022 là đợt bùng dịch mạnh nhất, việc áp dụng các biện pháp giãn cách và triển khai tiêm vaccine có đem lại hiệu quả ?
+(X: location, date, new_cases, new_deaths, people_vaccinated, people_fully_vaccinated, population) 
+- Có thể áp dụng các mô hình dự đoán để dự đoán tình hình dịch bệnh ở Việt Nam ?
+(X: date, new_cases, total_cases)
+- Dịch bệnh covid có khả năng gây chết người cao hay thấp (ở các khu vực châu Âu, châu Á) ? (X: total_deaths, new_deaths)
